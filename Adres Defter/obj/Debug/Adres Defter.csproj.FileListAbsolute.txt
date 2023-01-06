@@ -1,0 +1,22 @@
+c:\users\90505\documents\visual studio 2013\Projects\Adres Defter\Adres Defter\bin\Debug\Adres Defter.exe.config
+C:\Users\90505\documents\visual studio 2013\Projects\Adres Defter\Adres Defter\bin\Debug\Adres Defter.exe
+C:\Users\90505\documents\visual studio 2013\Projects\Adres Defter\Adres Defter\bin\Debug\Adres Defter.pdb
+C:\Users\90505\documents\visual studio 2013\Projects\Adres Defter\Adres Defter\obj\Debug\Adres Defter.csprojResolveAssemblyReference.cache
+C:\Users\90505\documents\visual studio 2013\Projects\Adres Defter\Adres Defter\obj\Debug\Adres_Defter.Form1.resources
+C:\Users\90505\documents\visual studio 2013\Projects\Adres Defter\Adres Defter\obj\Debug\Adres_Defter.Properties.Resources.resources
+C:\Users\90505\documents\visual studio 2013\Projects\Adres Defter\Adres Defter\obj\Debug\Adres Defter.csproj.GenerateResource.Cache
+C:\Users\90505\documents\visual studio 2013\Projects\Adres Defter\Adres Defter\obj\Debug\Adres Defter.exe
+C:\Users\90505\documents\visual studio 2013\Projects\Adres Defter\Adres Defter\obj\Debug\Adres Defter.pdb
+C:\Users\90505\documents\visual studio 2013\Projects\Adres Defter\Adres Defter\obj\Debug\Adres_Defter.Form2.resources
+C:\Users\90505\documents\visual studio 2013\Projects\Adres Defter\Adres Defter\obj\Debug\Adres_Defter.Form3.resources
+C:\Users\90505\Desktop\zehra\Visual Studio 2013\Projects\Adres Defter\Adres Defter\bin\Debug\Adres Defter.exe.config
+C:\Users\90505\Desktop\zehra\Visual Studio 2013\Projects\Adres Defter\Adres Defter\obj\Debug\Adres Defter.exe
+C:\Users\90505\Desktop\zehra\Visual Studio 2013\Projects\Adres Defter\Adres Defter\obj\Debug\Adres Defter.pdb
+C:\Users\90505\Desktop\zehra\Visual Studio 2013\Projects\Adres Defter\Adres Defter\bin\Debug\Adres Defter.exe
+C:\Users\90505\Desktop\zehra\Visual Studio 2013\Projects\Adres Defter\Adres Defter\bin\Debug\Adres Defter.pdb
+C:\Users\90505\Desktop\zehra\Visual Studio 2013\Projects\Adres Defter\Adres Defter\obj\Debug\Adres Defter.csprojResolveAssemblyReference.cache
+C:\Users\90505\Desktop\zehra\Visual Studio 2013\Projects\Adres Defter\Adres Defter\obj\Debug\Adres_Defter.Form1.resources
+C:\Users\90505\Desktop\zehra\Visual Studio 2013\Projects\Adres Defter\Adres Defter\obj\Debug\Adres_Defter.Form2.resources
+C:\Users\90505\Desktop\zehra\Visual Studio 2013\Projects\Adres Defter\Adres Defter\obj\Debug\Adres_Defter.Form3.resources
+C:\Users\90505\Desktop\zehra\Visual Studio 2013\Projects\Adres Defter\Adres Defter\obj\Debug\Adres_Defter.Properties.Resources.resources
+C:\Users\90505\Desktop\zehra\Visual Studio 2013\Projects\Adres Defter\Adres Defter\obj\Debug\Adres Defter.csproj.GenerateResource.Cache
